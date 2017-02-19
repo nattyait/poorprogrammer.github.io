@@ -19,6 +19,7 @@
     "paths": {
         "/auth/login": {
             "post": {
+                "summary": "Login to get access token",
                 "description": "Authen with username and password and get access token.\n",
                 "parameters": [
                     {
